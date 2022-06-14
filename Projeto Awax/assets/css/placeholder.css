@@ -1,0 +1,6 @@
+.input::placeholder{
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #bbb;
+}
